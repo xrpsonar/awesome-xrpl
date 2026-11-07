@@ -60,7 +60,8 @@ Here are some things to know:
   - 🔗 [Validators](https://xrpscan.com/validators)
   - 🔗 [Amendments](https://xrpscan.com/amendments)
   - 🔗 [Metrics](https://xrpscan.com/metrics)
-
+- [XRPSONAR](https://xrpsonar.com) 💫 - Live XRP whale tracker: every payment of 1,000,000+ XRP, a rich list of the 1,000 largest wallets with known owners, exchange balances and daily net flows, Ripple escrow, amendments and monthly reports. In 6 languages, with a free [embeddable widget](https://xrpsonar.com/xrp-widget) and an [RSS feed](https://xrpsonar.com/xrp-news/feed.xml).
+- 
 # XRPL Tokens
 
 > _colloquially referred to as "Tokens", formerly known as "IOU"_
@@ -457,7 +458,9 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
   tweets interesting and easily-digestable messages of rolling stats of the XRPL. Its' followers, tend to raise the more
   interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
+- [XRPSONAR](https://twitter.com/xrpsonar) - Daily XRP Ledger summary (price, whale moves, exchange flows, ETFs, new wallets) and whale movements of 50M+ XRP, by [xrpsonar.com](https://xrpsonar.com).
 
+- 
 ## [CasinoCoin](#casino-coin-csc)
 
 - [CasinoCoin Alerts](https://twitter.com/CasinoCoinAlert) CasinoCoin (CSC) price swing alerts: movement of more than 10% within an hour, or more than 15% in a day. By [@ForexCadet](https://twitter.com/ForexCadet).
